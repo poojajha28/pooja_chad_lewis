@@ -1,4 +1,5 @@
 Task window: October 20, 2026 (Tuesday) to October 23, 2026 (Friday), US/Central.
+Persona: Chad Lewis
 Category: home_and_organization
 Difficulty: Multi-App Complex
 Tools used: gmail-api, google-calendar-api, google-sheets-api, google-docs-api, google-contacts-api, airtable-api, myfitnesspal-api, openweather-api
