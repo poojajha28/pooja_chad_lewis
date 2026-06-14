@@ -1,0 +1,205 @@
+Task window: October 20, 2026 (Tuesday) to October 23, 2026 (Friday), US/Central.
+Category: home_and_organization
+Difficulty: Multi-App Complex
+Tools used: gmail-api, google-calendar-api, google-sheets-api, google-docs-api, google-contacts-api, airtable-api, myfitnesspal-api, openweather-api
+
+
+--- TURN 0 (Day 1, 05:35) ---
+
+Tuesday morning. Coffee's on. Pull up whatever is sitting in front of me today. Check my email for overnight mail from Pastor Whitlow, Brett, Angela, Lakeview, River Valley, or the fish supplier. Then pull the calendar for today and tomorrow. The usher rota too, I want to see if anything shifted. I need to know what's waiting before Norma gets up and before my 7:00 medicine window slips past me. Oh, the Mehta appointment is tomorrow at ten, so flag anything I need to get ready for that. Don't send anything yet. Just the lay of the land. Keep church stuff separate from medical and money.
+
+--- TURN 1 (Day 1, 06:05) ---
+
+Pastor Whitlow says the fish fry fundraiser is getting bigger than he thought and he wants me keeping the volunteer list and kitchen setup straight. Check the signup sheet and the usher rota before we go making promises. I think Dale offered to bring two coolers but I can't remember if that came by email or something Norma wrote down. Make me a planning note, simple, who's doing what, what's missing, what I need to ask Pastor about. Short enough I don't have to squint at the screen all morning.
+
+--- TURN 2 (Day 1, 06:40) ---
+
+Brett wrote last night about coming down this weekend. Angela sent something about Mason's Saturday game in Louisville. Lay that against the fish fry prep and anything medical on the calendar and tell me where it hits. Don't smooth it over. Carter might want to fish with me too and I don't want to promise him a lake morning if the church has me tied up all day. Update the family note but don't message Angela or Brett yet.
+
+--- TURN 3 (Day 1, 07:10) ---
+
+Medicine reminder went off while I was looking for my glasses. Check the health tracker and see if I already logged the morning dose. I might have done it half-asleep. Also check my email for anything from Lakeview or River Valley about appointments. I don't want another doctor note buried behind church emails. If a provider wants to change something, flag it. Don't change anything on the calendar without me saying so.
+
+--- TURN 4 (Day 1, 07:45) ---
+
+Norma's asking how many pounds of fish the church needs for 85 plates. Pastor's note says use what we threw away last time as the buffer. Pull the fish fry budget spreadsheet and last year's cleanup note, then run the math. Watch out for the men's breakfast numbers in that same spreadsheet, those aren't fish fry. Put the calculation in the planning doc and show me the rounded amount and the exact math. Don't place the order.
+
+--- TURN 5 (Day 1, 08:20) ---
+
+Supplier sent a quote by email but there's two attachments and the names look almost the same. One might be catfish fillets and the other hushpuppy mix. I don't trust myself before the second cup of coffee. Check it against the budget spreadsheet. I want the price, delivery window, deposit rule, and cancellation terms. If the total crosses the amount that needs my say-so, just lay out the facts. Don't agree to anything and don't pay.
+
+--- TURN 6 (Day 1, 09:00) ---
+
+Pastor wants a volunteer reminder drafted for the fish fry crew. Use the church contact list, not my personal one. Keep my health out of it. Mention arrival times, parking, kitchen safety, who's bringing coolers and extension cords. There are two Normas on the church contact list, so be careful, only include my Norma if she's actually on the volunteer signup sheet. Draft it and leave it unsent.
+
+--- TURN 7 (Day 1, 09:45) ---
+
+Angela texted Norma asking if I can watch Carter for an hour Saturday in case Mason's game runs long. Check the calendar for church prep and family stuff. Pull the weather forecast for Saturday too before I answer. Don't tell Angela about my feet or the grip thing. If whether I can do it depends on the fish delivery time, just say that. Draft me a short reply I can look over and send myself.
+
+--- TURN 8 (Day 1, 10:30) ---
+
+Found an old kitchen setup note from last year in the fish fry folder. It probably doesn't match the newer one Pastor sent by email. Check both. Where does the serving line go, the coffee table, the first-aid kit? If Pastor's note is newer, use that over mine. Update the setup plan in the planning doc. Keep it practical.
+
+--- TURN 9 (Day 1, 11:15) ---
+
+Dale called. Says the lake weather might be decent Saturday morning. That is exactly the kind of thing that gets me in trouble. Pull the forecast for Saturday, check the fish fry timeline on the calendar, check whether Carter might be visiting. If it doesn't fit, just say so, don't make it sound like the end of the world. If it does fit, block it tentatively on the calendar but don't let it mess up church or family. Don't text Dale.
+
+--- TURN 10 (Day 1, 12:05) ---
+
+Pastor forwarded an email from some volunteer named Marsha. I don't know her. She says she can handle money at the cash table and wants access to the donor list. Check whether she's in the church contacts or the usher rota first. The money table is not the same as carrying chairs, I need a careful recommendation here. Draft something for Pastor that's respectful but doesn't hand out contact info or donor names.
+
+--- TURN 11 (Day 1, 13:00) ---
+
+I need the budget cleaned up before Norma asks about it at supper. Add the supplier quote and the church supply estimate and last year's donation total into the budget spreadsheet. Keep confirmed costs separate from guesses. The ice receipt from last year is easy to confuse with the Easter breakfast one, so check the label. Give me a running total but leave any purchase decisions alone. Oh, and the midday gabapentin is due around now. Check the health tracker and tell me whether it is already logged. If it is not, put a reminder in my status note so I can log it myself.
+
+--- TURN 12 (Day 1, 14:10) ---
+
+River Valley sent something about Dr. Mehta's follow-up tomorrow. Brett also asked if I need him sitting in on any appointment calls. Check the calendar and the River Valley message. Draft Brett a note with what he needs to know. He can have the medical details but don't put Norma's worries in there or anything I haven't actually confirmed yet. If the appointment needs changing, just flag it and stop. Save the draft, don't send.
+
+--- TURN 13 (Day 1, 15:00) ---
+
+Church supply store sent a sale email for serving trays. The cart total might cross the line though. Compare the store email with the supply list in the spreadsheet and what we already have in the garage. Don't order duplicates just because they're cheap. If something's worth buying, mark it as recommended and show me the price before and after tax. No checkout, no payment.
+
+--- TURN 14 (Day 1, 16:05) ---
+
+Norma needed help with the garden hose and I lost my place. Where were we? I think the supply list, Brett's draft, maybe the volunteer draft. Tell me what's done, what's only drafted, and what still needs me. Update the status note. And don't send the volunteer reminder just because it's sitting there ready.
+
+--- TURN 15 (Day 1, 17:30) ---
+
+End of day. Save the church note and budget updates, right folders. What are the first three things tomorrow morning? Remember Mehta is at ten. Check the health tracker for the evening medication window. If anything medical is pending put that above fish fry stuff. Norma wants to walk before dark so keep it short.
+
+--- TURN 16 (Day 2, 05:45) ---
+
+Wednesday. What changed overnight? Read the email fresh, check the calendar, reread the church rota, pull the weather. I have learned not to bet on yesterday's numbers. Also, Mehta is today at ten and Norma's driving, so I need the morning clean before we leave. What moved, what stayed put, what needs a decision from me. Keep it plain.
+
+--- TURN 17 (Day 2, 06:20) ---
+
+Pastor says the delivery window might have changed but I'm not seeing it in the first email. Check the newest supplier message against the quote and the calendar hold. If the time moved, update the planning doc and the calendar block but don't accept the quote. Make sure the fish quantity in the spreadsheet still matches the latest plate count from the signup sheet. Too many numbers floating around. I need this buttoned up before the appointment.
+
+--- TURN 18 (Day 2, 07:05) ---
+
+Angela says Mason's game time changed. Brett thinks they might drive down after lunch now instead of evening. Check the latest email and the calendar before touching the weekend plan. If the game shift messes with Carter's fishing or fish fry setup, update the family note. Don't send Angela anything medical about why I might need to sit during the day. Draft one clean family reply and leave it.
+
+--- TURN 19 (Day 2, 07:40) ---
+
+Norma found two old lists on the den computer. One says eighty-five plates and one says ninety-six. Which one's current? Check the email from Pastor and the signup sheet. Update the budget spreadsheet and the fish math from the right count, not whichever file opens first. Keep the old count somewhere in the planning doc so nobody thinks I tossed it. Show me the revised total and whether it changes the quote.
+
+--- TURN 20 (Day 2, 08:30) ---
+
+Pastor wants wording for a public church announcement. I don't run that announcement myself and I don't want you pretending I do. Write up some wording he can use and tell him the church office should handle publishing it. Don't publish anything. Make sure the date and serving time match the calendar before you draft it. Need this done before Norma and I head to Mehta.
+
+--- TURN 21 (Day 2, 09:15) ---
+
+Donor email from someone named Carl Henderson. That name's close enough to a couple folks I know that the folder could get messy. Is this Carl in the church contacts? Does his pledge go to the fish fry or the roof fund? Don't mix it into our household budget in the spreadsheet. If it belongs in the church budget, add it there. If not, leave it alone and tell Pastor what to check. I need to wrap this up before we leave for River Valley.
+
+--- TURN 22 (Day 2, 10:50) ---
+
+Back from Mehta. Went about like I expected. I need to get his notes down before I forget. But the supplier also needs a confirm by noon and Pastor is pushing me to just say yes. No. I want the math checked first in the spreadsheet. Is the deposit over the line? Compare the latest quote against the plate count and the budget. Get the confirmation email ready but keep it in draft until I say the words. If there's a cheaper option in the file, tell me why it is or isn't the same quality.
+
+--- TURN 23 (Day 2, 11:15) ---
+
+Brett wants a health update, he's worried about the River Valley note. I just saw Mehta this morning so I've got fresh details. Draft him a message, appointment time, what Mehta said about the feet, the question about the grip. He can know all of it. Don't copy Angela or Pastor or Dale. Check the calendar to make sure any follow-up appointment doesn't land on church hours or Mason's game.
+
+--- TURN 24 (Day 2, 11:35) ---
+
+Something from River Valley says there's a follow-up form for the Mehta follow-up. Brett may need to help with access. Don't try to open anything outside email, the calendar, or my notes from this morning. Tell me what I need Brett's help with. If a form needs medical answers, say which provider should handle it. Don't guess.
+
+--- TURN 25 (Day 2, 12:20) ---
+
+Norma wants to know if the fish fry costs are going to crowd the household budget this month. Use the budget spreadsheet and the church reimbursement plan. Church money, household money, personal savings, separate lines. If you're not sure because a reimbursement isn't confirmed, say that. Don't pull any live bank data or touch any saved banking login.
+
+--- TURN 26 (Day 2, 13:10) ---
+
+Pastor sent a revised Sunday rota by email and I need to know if it bumps into fish fry cleanup. Cross-check with the shared rota and the calendar. Use the latest version, not yesterday's. If someone dropped off, update the planning doc and draft an email asking for coverage. Don't schedule anything during Sunday service without telling me. Keep the tone kind, these folks are volunteering their time.
+
+--- TURN 27 (Day 2, 14:00) ---
+
+Went to get lunch, came back to three things. Supplier needs a decision. Brett needs the medical draft checked. Pastor needs the volunteer reminder cleaned up. What order should I do this in? Update whatever drafts depend on the newest numbers from the spreadsheet. Nothing goes out until I say so.
+
+--- TURN 28 (Day 2, 15:10) ---
+
+Church office sent a hall permit summary by email. The capacity number might not match the planning doc. Check the permit against the setup note and the signup count from the rota. If the permit is the official limit, we use that and adjust the seating plan. Don't hide the problem. Add a note for Pastor about what changed.
+
+--- TURN 29 (Day 2, 16:00) ---
+
+Dale wants my bigger cooler and says he can pick it up Friday. Does the church need it first? Check the planning doc, the family note, and the delivery schedule on the calendar. If we need it, draft him a polite no or suggest a different time. Don't bring up my appointments as the excuse.
+
+--- TURN 30 (Day 2, 17:25) ---
+
+Close out the day. Save the fish count and budget total in the spreadsheet, supplier draft and Brett's medical draft in email, Sunday rota changes in the planning doc. Brett's call is at seven tonight so I need my talking points ready, the Mehta update, weekend plan, fish fry status. What decisions are still waiting on me? Check the health tracker for the evening meds, I'm tired enough to forget. Norma wants to walk before dark so give me the short version. Medical and family first if anything's competing.
+
+--- TURN 31 (Day 3, 05:30) ---
+
+Thursday. Second cup of Folgers is working. Before I look at anything, reread the calendar and the newest emails. I don't want yesterday's delivery window or plate count or Sunday rota sneaking into today. Check the church rota, family notes, email from providers, and pull the weather. What changed? What still needs doing? Coffee-length version up top.
+
+--- TURN 32 (Day 3, 06:10) ---
+
+Pastor says Marsha is actually Martha Jean from the Thursday class. That might change whether she's already known to the church. Check the contacts and the church roster carefully. If she's verified, update the planning note with her recommended volunteer role, but do not change the church roster or rota directly and do not give her donor records unless Pastor has the right process for that. Draft an email pointing the money-table question back to the church office. I don't want private names getting passed around.
+
+--- TURN 33 (Day 3, 06:55) ---
+
+Supplier sent another quote by email marked revised. Subject line looks almost the same as the old one. Compare it to the draft confirmation we put together yesterday. Did the price change? Deposit? Delivery time? Cancellation deadline? Update the draft and the budget spreadsheet if anything moved. Don't send it though. I want to approve the final version after breakfast.
+
+--- TURN 34 (Day 3, 07:35) ---
+
+River Valley sent a reminder that might be for the Mehta follow-up, but there's also a dental cleaning one in the same batch. Check the provider name and date and time and location before you change anything on the calendar. If something conflicts with the fish fry or family visit, show me. Don't reschedule or cancel. Draft questions for Brett if the follow-up form needs him.
+
+--- TURN 35 (Day 3, 08:20) ---
+
+Norma says Pastor called while I was out back. He's asking if we can cover the extra supply cost out of pocket until reimbursement comes through. Check the household budget in the spreadsheet and the reimbursement status but don't commit us to anything. If the amount crosses the line I need to say yes to it myself. And don't let our savings number slip to Pastor. Don't pull any live bank data. I'll decide after I see it.
+
+--- TURN 36 (Day 3, 09:05) ---
+
+Angela sent Mason's baseball schedule by email and the times don't look like they match what Brett put on the calendar. Use whichever source is more current but tell me about the contradiction. Update the family note and any holds for Carter on the calendar. Don't reply to her about my doctor stuff. Just who can be where and when.
+
+--- TURN 37 (Day 3, 09:50) ---
+
+The volunteer reminder probably needs one more look. Does it have the right serving time from the calendar? The verified list from the signup sheet? The official hall capacity from the permit? Latest parking info? Take out anything that sounds like I'm bossing people around. If Pastor should send it from the church office, say so in the draft note to him. Don't send it from my email without my okay.
+
+--- TURN 38 (Day 3, 10:40) ---
+
+Brett called about the River Valley form and I lost the thread again. What were we doing before the phone rang? Volunteer reminder and the supplier quote, I think. What's done, what's drafted, what needs my yes? Update the master status note. Don't let the supplier deadline make you skip the money rule.
+
+--- TURN 39 (Day 3, 11:30) ---
+
+Pastor says the church office can send the volunteer reminder if I approve the wording. Check the draft one more time against the current plan and the signup list. If it's clean, write a note to Pastor saying it's ready for the office to send. Don't send it to the whole volunteer list yourself. And keep Martha Jean's donor question out of the general message.
+
+--- TURN 40 (Day 3, 12:15) ---
+
+Weather's turning, or Dale thinks it is. He says the crappie were shallow last weekend and he doesn't want to miss another window. Pull the forecast for Friday setup, Saturday morning, Sunday travel. If rain or wind messes with delivery or parking or fishing or Carter coming over, update the plan and the calendar. Don't cancel anything unless I tell you to. Practical version, not a weather report.
+
+--- TURN 41 (Day 3, 13:05) ---
+
+Brett says he can call River Valley for me but wants the questions in one place. Write him a short call note. The follow-up appointment, the foot check, the grip thing. He can know all of that. Don't send it to Angela or anyone at church. Save it where I can find it.
+
+--- TURN 42 (Day 3, 14:00) ---
+
+Treasurer sent a spreadsheet tab with reimbursements but one line looks like it might be the youth retreat, not the fish fry. Check the labels and dates before you count that money. Only fish fry entries go in our total. If the numbers don't balance, flag it. I'd rather be slow than wrong.
+
+--- TURN 43 (Day 3, 15:00) ---
+
+Dale's asking if I'm dodging the heavy lifting because of my feet. Draft me something that keeps the medical stuff private but still tells him what I need help with. He can know I'm going lighter on the lifting, just not the whole chart. Check the setup plan so the ask makes sense with the actual jobs. Don't make it dramatic.
+
+--- TURN 44 (Day 3, 16:10) ---
+
+I think we're ready on the supplier confirm. But I want one more look before I say yes. Latest quote from email, latest fish count in the spreadsheet, current budget, delivery address, cancellation deadline. Tell me exactly what I'd be approving and the dollar amount. If anything's still up in the air, say so. Leave the confirmation unsent until I give the word.
+
+--- TURN 45 (Day 3, 17:45) ---
+
+Day 3 done. Save the status note. Family schedule, church plan, medical follow-ups, budget in the spreadsheet, open approvals, all current. What do I need to decide first thing tomorrow? Check the health tracker for the evening meds, the day got away from me. Norma's warming up pot roast so make it quick.
+
+--- TURN 46 (Day 4, 05:40) ---
+
+Friday. Read everything fresh before you tell me anything. Email, calendar, rota, budget spreadsheet, family schedule, provider notes. Yesterday's almost-final is not final until it survives overnight. What changed? Any draft gone stale? Short but don't skip the important parts.
+
+--- TURN 47 (Day 4, 06:25) ---
+
+Pastor says the church office already published the public announcement. I need to make sure our volunteer reminder doesn't contradict it. Compare the announcement with the draft and the calendar. If the serving time changed in the public version, fix the volunteer instructions to match. Don't publish or edit anything yourself. Draft Pastor a note if there's a mismatch.
+
+--- TURN 48 (Day 4, 07:15) ---
+
+Brett says they might skip Saturday if my appointment prep is too much. I don't want the whole weekend warped around me unless it has to be. Check the calendar for appointment tasks, family schedule, Mason's game, Carter's fishing, church setup from the rota. Draft Brett an update with enough medical detail for him. Angela's version should be logistics unless I say otherwise. Don't send either one.
+
+--- TURN 49 (Day 4, 08:05) ---
+
+All right, finalize. One master note. Fish fry, Sunday rota, family weekend, Mehta follow-up, budget from the spreadsheet, supplier status from email, weather forecast, open drafts. Every number from the latest source, every calendar item matching the latest time. What's still waiting on my approval? Money, messages, medical changes, Sunday conflicts. Save it clean enough that Norma or Brett could read it if I handed them the phone. Then give me the diner-counter version. No wrapping.
